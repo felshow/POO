@@ -1,4 +1,4 @@
-package CRUD.Crud02.interfaces;
+package CRUD_ARQUIVO;
 
 import CRUD.Crud02.entidades.Aluno;
 

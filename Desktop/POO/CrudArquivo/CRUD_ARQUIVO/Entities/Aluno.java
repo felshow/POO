@@ -1,4 +1,4 @@
-package CRUD.Crud02.entidades;
+package CRUD_ARQUIVO;
 
 import java.util.Calendar;
 
